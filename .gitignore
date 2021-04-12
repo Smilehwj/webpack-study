@@ -1,0 +1,4 @@
+webpack-demo/node_modules
+package-lock.json
+/webpack-demo/dist/main.js
+/webpack-demo/dist/main.js.LICENSE.txt
